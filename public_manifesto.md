@@ -1,4 +1,4 @@
-# THE RECEIPT: An Open Indictment of the Architects of Our Ruin
+# THE RECEIPT: An Open Indictment
 
 **To the American Public:**
 
