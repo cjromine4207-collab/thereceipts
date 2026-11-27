@@ -9,7 +9,7 @@ This document serves as the master source file for the "Receipts" investigation.
 ## COUNT 1: THE STATE (FDA, DEA, BANKS)
 
 ### A. The FDA (Regulatory Capture)
-*   **Fact:** Approximately 66% of the FDA's budget for human drug reviews comes directly from pharmaceutical industry "user fees" (PDUFA).
+*   **Fact:** Approximately 66% of the FDA's budget for human drug reviews comes directly from pharmaceutical industry "user fees"
 *   **Source:** *Congressional Research Service*, "FDA Funding: User Fees" (2022). [Link to Report]
 *   **Fact:** Drugs approved right before PDUFA deadlines are significantly more likely to have safety issues/recalls.
 *   **Source:** *Journal of the American Medical Association (JAMA)*, "PDUFA Deadlines and Safety Withdrawals."
@@ -64,7 +64,7 @@ This document serves as the master source file for the "Receipts" investigation.
 
 ---
 
-## COUNT 5: THE BODY BROKERS (REHAB)
+## COUNT 5: THE BODY BROKERS (REHAB, TREATMENT, DARE, SUBSTANCE USE RECOVERY )
 
 ### A. Fraud and Brokering
 *   **Fact:** In 2020, the DOJ charged $845 million in substance abuse treatment fraud.
@@ -88,8 +88,8 @@ This document serves as the master source file for the "Receipts" investigation.
 *   **Fact:** Stimulant prescriptions for adults (aged 31-40) increased by 240% (2012-2023).
 *   **Source:** *Trilliant Health* / *CDC* data on prescription trends.
 
-### C. The P2P Meth Crisis
-*   **Fact:** Modern "P2P" meth causes rapid onset of severe mental illness/psychosis compared to ephedrine-based meth.
+[UNSUBSTANCIATED MEDICAL STANCE, FAILS THE PEER REVIEW] ### C. The P2P Meth Crisis
+*   **Fact:** Modern "P2P" meth causes rapid onset of severe mental illness/psychosis compared to ephedrine-based meth.  In nearly all P2P meth cases causing mental problems having to do with meth were completely recovered from, individuals often siting profound personal awakening after several arduous  months of psyche-neurogenitive due to use.
 *   **Source:** *Sam Quinones*, "The Least of Us"; *The Atlantic*.
 
 ---
@@ -98,7 +98,7 @@ This document serves as the master source file for the "Receipts" investigation.
 
 ### A. The Entry Vector
 *   **Fact:** Foster care entries due to parental drug abuse increased by 147% (2000-2017).
-*   **Source:** *U.S. Department of Health and Human Services (HHS)*, AFCARS data.
+*   **Source:** *U.S. Department of Health and Human Services (HHS)
 
 ### B. The Chemical Straitjacket
 *   **Fact:** Foster youth are prescribed psychotropic medications at rates 3x to 11x higher than the general youth population.
